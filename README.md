@@ -2,6 +2,6 @@
 
 >  KoGES 데이터로 분석하는 심뇌혈관 질환
 
-Cardiovascular disease (CVD)
+cardio cerebrovascular disease (CVD)
 
 - 작성자: 황승현
