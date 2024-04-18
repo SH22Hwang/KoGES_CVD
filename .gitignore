@@ -1,5 +1,5 @@
 # 제외할 것 추가
-*.csv
+Dataset/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
